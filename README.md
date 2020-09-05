@@ -9,9 +9,9 @@ data.typelog=3<br>
 data.message=Hello World, esta es una prueba<br>
 data.path=./v1.0.0<br>
 
-# En data.storage<br>
-# file, indica que se creará archivo<br>
-# console, indica que se escribirá en consola<br>
+# En data.storage
+# file, indica que se creará archivo
+# console, indica que se escribirá en consola
 # En data.typelog
 # 1, es message; 2 es warning; y 3 es error
 
